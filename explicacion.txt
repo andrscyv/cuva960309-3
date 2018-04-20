@@ -1,0 +1,8 @@
+Dio resultado correcto.
+
+El metodo duplica el string de entrada y verifica si este duplicado se contiene en el string original. Esto 
+es verdad si y solo si se puede generar el string con algun substring suyo.
+
+Es una buena solución porque identifica otra perspectiva del problema que lo vuelve más sencillo,
+me parece que  en primera instancia todos pensamos en buscar substrings, cuando no vimos que el 
+string en sí mismo podia generarse copiandose y eso es una condición muchisimo más sencilla de verificar. 
